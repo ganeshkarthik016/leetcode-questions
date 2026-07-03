@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3333-find-the-original-typed-string-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3333-find-the-original-typed-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
+## String
+|  |
+| ------- |
+| [3333-find-the-original-typed-string-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3333-find-the-original-typed-string-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3333-find-the-original-typed-string-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3333-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
