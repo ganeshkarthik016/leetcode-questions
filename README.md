@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0037-sudoku-solver) |
+| [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -20,9 +21,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0037-sudoku-solver) |
+| [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -60,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0460-lfu-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
