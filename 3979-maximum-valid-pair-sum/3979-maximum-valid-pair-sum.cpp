@@ -1,15 +1,13 @@
 class Solution {
 public:
-    int maxValidPairSum(vector<int>& nums, int k) {
-        int tail_mx = 0;
-        int res = 0;
-
-        for (int i = k, j = 0; i < nums.size(); ++i, ++j)
-        {
-            tail_mx = max(tail_mx, nums[j]);
-            res = max(res, nums[i] + tail_mx);
-        }
-
-        return res;
+    int maxValidPairSum(vector<int>& a, int k) {
+        int n=a.size();
+        vector<int>sf(n+1);
+        for(int i=n-1;i>=0;i--)
+            sf[i]=max(a[i],sf[i+1]); 
+        int ans=0;
+        for(int i=0;i+k<n;i++)
+            ans=max(ans,a[i]+sf[i+k]);
+        return ans;
     }
 };
