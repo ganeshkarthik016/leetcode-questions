@@ -70,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1288-remove-covered-intervals) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
