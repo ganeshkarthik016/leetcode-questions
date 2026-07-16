@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0460-lfu-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0058-length-of-last-word) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3333-find-the-original-typed-string-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3333-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
