@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
