@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0231-power-of-two) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
