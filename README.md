@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0204-count-primes](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0204-count-primes) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [1288-remove-covered-intervals](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0202-happy-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0460-lfu-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0231-power-of-two) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
