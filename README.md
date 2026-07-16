@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0204-count-primes](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0204-count-primes) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
