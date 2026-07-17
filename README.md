@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2484-count-palindromic-subsequences](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2484-count-palindromic-subsequences) |
 | [3333-find-the-original-typed-string-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3333-find-the-original-typed-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2484-count-palindromic-subsequences](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2484-count-palindromic-subsequences) |
 | [3333-find-the-original-typed-string-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3333-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
