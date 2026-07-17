@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [1288-remove-covered-intervals](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Counting
 |  |
 | ------- |
