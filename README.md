@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2484-count-palindromic-subsequences) |
 | [3333-find-the-original-typed-string-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3333-find-the-original-typed-string-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0204-count-primes) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
