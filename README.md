@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3333-find-the-original-typed-string-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3333-find-the-original-typed-string-ii) |
+| [3903-smallest-stable-index-i](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
