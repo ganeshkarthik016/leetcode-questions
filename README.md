@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0310-minimum-height-trees) |
 | [1192-critical-connections-in-a-network](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0310-minimum-height-trees) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0310-minimum-height-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
