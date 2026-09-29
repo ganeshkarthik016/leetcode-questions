@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0460-lfu-cache](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0460-lfu-cache) |
 ## Design
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0202-happy-number) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0231-power-of-two) |
