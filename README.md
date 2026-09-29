@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Binary Search
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0877-stone-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0877-stone-game) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2484-count-palindromic-subsequences](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2484-count-palindromic-subsequences) |
 | [3333-find-the-original-typed-string-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3333-find-the-original-typed-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0332-reconstruct-itinerary) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
