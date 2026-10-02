@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0332-reconstruct-itinerary) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0460-lfu-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0332-reconstruct-itinerary) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1288-remove-covered-intervals) |
@@ -273,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
