@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0205-isomorphic-strings) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## String
