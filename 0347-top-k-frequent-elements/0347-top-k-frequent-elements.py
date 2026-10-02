@@ -5,6 +5,16 @@ class Solution:
         for x in nums:
             mp[x] = mp.get(x, 0) + 1
 
-        arr = sorted(mp, key=mp.get, reverse=True)
+        mp2 = []
 
-        return arr[:k]
+        for key, value in mp.items():
+            mp2.append([value, key])
+
+        mp2.sort(reverse=True)
+
+        ans = []
+
+        for i in range(k):
+            ans.append(mp2[i][1])
+
+        return ans
