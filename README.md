@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0460-lfu-cache) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1288-remove-covered-intervals) |
@@ -326,11 +330,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -424,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1934-confirmation-rate) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
