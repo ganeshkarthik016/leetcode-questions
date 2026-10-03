@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0058-length-of-last-word) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
