@@ -1,17 +1,21 @@
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
-        st = [-1]
+        st = []
         maxi = 0
+        start = 0
 
         for i in range(len(s)):
             if s[i] == '(':
                 st.append(i)
             else:
-                st.pop()
+                if st:
+                    st.pop()
 
-                if not st:
-                    st.append(i)
+                    if st:
+                        maxi = max(maxi, i - st[-1])
+                    else:
+                        maxi = max(maxi, i - start + 1)
                 else:
-                    maxi = max(maxi, i - st[-1])
+                    start = i + 1
 
         return maxi
