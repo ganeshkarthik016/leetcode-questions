@@ -12,6 +12,7 @@ public:
                 stck.push_back(c);
             }
         }
+        cout<<stck;
         return stck.size();
     }
 };
