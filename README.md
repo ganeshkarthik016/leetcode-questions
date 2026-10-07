@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0332-reconstruct-itinerary) |
 | [0678-valid-parenthesis-string](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0678-valid-parenthesis-string) |
