@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
@@ -505,4 +508,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
