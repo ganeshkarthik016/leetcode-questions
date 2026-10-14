@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
 |  |
