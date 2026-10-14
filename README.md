@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
