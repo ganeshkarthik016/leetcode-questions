@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Matrix
 |  |
 | ------- |
@@ -529,10 +531,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |
