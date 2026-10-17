@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0055-jump-game) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0037-sudoku-solver) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -552,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
