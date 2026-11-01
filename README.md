@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1260-shift-2d-grid) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0292-nim-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
