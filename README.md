@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1254-number-of-closed-islands) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
