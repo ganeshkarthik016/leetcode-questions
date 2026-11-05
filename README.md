@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0778-swim-in-rising-water](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0778-swim-in-rising-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3620-network-recovery-pathways](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ganeshkarthik016/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |
